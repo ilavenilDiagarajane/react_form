@@ -1,0 +1,19 @@
+
+  
+    .form_fields {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 40px;
+    }
+    input.form_field {
+        padding: 2px 21px;
+        border-radius: 20px;
+        border: 2px solid grey;
+        width: 200px;
+        height: 34px;
+        text-align: start;
+    }
+    p{
+        color: red;
+    }
